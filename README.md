@@ -1,1 +1,2 @@
-# PRUEBA-27-02-26
+# Este repositario es utilizado para alojar una BD
+'''INFRASA"|"Vuelo"|"Tipo Aeronave"|"Pasajeros"|"Estado
