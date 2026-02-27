@@ -1,6 +1,5 @@
 # Este repositario es utilizado para alojar una BD
-'''INFRASA"|"Vuelo"|"Tipo Aeronave"|"Pasajeros"|"Estado
-AV. "|"Vuelo"|"Tarjeta"|
+
 | Vuelo | Tipo Aeronave | Pasajeros | Estado |
 |------|---------------|-----------|--------|
 | HK0001 | JR | 62 | En aproximación |
@@ -23,11 +22,3 @@ AV. "|"Vuelo"|"Tarjeta"|
 | HK0018 | Turbohélice | 38 | En plataforma |
 | HK0019 | JR | 62 | En aproximación |
 | HK0020 | General | 12 | Programado |
-
-Si quieres, también puedo darte:
-
-Los 100 registros completos en Markdown
-
-Una tabla optimizada para GitHub / README
-
-Un Data Dictionary en Markdown para documentar el dataset (muy usado en proyectos de datos).
